@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/0323" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/0326" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GitClonePractice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/venv" vcs="Git" />
   </component>
 </project>
