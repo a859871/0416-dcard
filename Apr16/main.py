@@ -48,4 +48,5 @@ for href in hrefs:
 print(links)
 #印出[看板、標題、連結]
 for i in range(len(forums)):
-    print(forums[i], titles[i], links[i])
+    if forums[i] == '軟體工程師':
+        print (forums[i], titles[i], links[i])
