@@ -1,0 +1,7 @@
+import numpy as np
+file = "pratice1.npy"
+with open(file, 'rb') as f:
+    a1 = np.load(f)
+print(a1)
+a1[a1 == -99] = 0
+a1[a1 % 3 == 0] = a1[a1 % 3]
